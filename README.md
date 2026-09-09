@@ -43,4 +43,9 @@ e traga um objeto vermelho de cor saturada.
 
 ## Avaliação
 
-Definida no guião da aula prática 2.
+Construção do programa **IEM Paint** na aula prática 2, em grupos de 2 alunos.
+Entrega-se o ficheiro `iem_paint.m` (com cabeçalho identificando o grupo e o
+URL de um vídeo de demonstração) através do e-learning, por um dos membros do
+grupo. Os critérios de avaliação, a lista do que valoriza a entrega e o prazo
+encontram-se na secção [«Avaliação do módulo»](aula1_tp/README.md#avaliação-do-módulo)
+do guião da aula teórico-prática.
