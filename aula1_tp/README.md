@@ -209,6 +209,7 @@ O que é entregue:
    **URL de um vídeo** que demonstre o programa a funcionar. O vídeo deve ter
    comentários, em voz ou em texto, a explicar o que o programa está a fazer em
    cada momento. Tal como aquele que o professor fez para demonstrar o trabalho.
+   O vídeo deve ser colocado no youtube e o link para o mesmo no código como mostrado em baixo.
 
    Exemplo de cabeçalho, a copiar e ajustar:
    ```matlab
