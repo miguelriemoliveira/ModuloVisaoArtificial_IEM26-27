@@ -227,6 +227,7 @@ O que é entregue:
 2. **A submissão no e-learning.** É feita **por apenas um dos membros do
    grupo**; na submissão devem constar o nome e o número mecanográfico dos dois
    elementos. Não deve haver duas submissões para o mesmo grupo.
+   O que deve ser submetido é o ficheiro <nome_do_ficheiro>.m onde está escrito o programa.
 
 O programa base — vídeo, deteção de cor, centro de massa e pintura na tela —
 corresponde a uma entrega suficiente. Valorizam a avaliação, entre outros:
