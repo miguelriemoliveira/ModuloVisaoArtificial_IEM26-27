@@ -262,7 +262,10 @@ corresponde a uma entrega suficiente. Valorizam a avaliação, entre outros:
 É preferível entregar um trabalho incompleto dentro do prazo do que um trabalho
 completo fora de prazo. Não se espera uma entrega perfeita.
 
-> **Prazo:** a definir.
+> **Prazo:** 
+
+A data limite para a entrega do trabalho é 12 de outubro de 2026. Nessa data a entrega fecha.
+Trabalhos entregues depois dessa data têm uma penalização de 50%.
 
 ---
 
