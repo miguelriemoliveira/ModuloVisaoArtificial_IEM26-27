@@ -205,7 +205,7 @@ O que é entregue:
    e o número mecanográfico de cada um dos dois membros do grupo, e ainda o
    **URL de um vídeo** que demonstre o programa a funcionar. O vídeo deve ter
    comentários, em voz ou em texto, a explicar o que o programa está a fazer em
-   cada momento.
+   cada momento. Tal como aquele que o professor fez para demonstrar o trabalho.
 
    Exemplo de cabeçalho, a copiar e ajustar:
    ```matlab
