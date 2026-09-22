@@ -199,6 +199,9 @@ prática seguinte.
 A avaliação consiste na construção do programa **IEM Paint** na aula prática 2,
 seguindo o respetivo guião, em **grupos de 2 alunos**.
 
+A data limite para a entrega do trabalho é 12 de outubro de 2026. Nessa data a entrega fecha.
+Trabalhos entregues depois dessa data têm uma penalização de 50%.
+
 O que é entregue:
 
 1. **O ficheiro `iem_paint.m`**, com um cabeçalho em comentário contendo o nome
